@@ -1,6 +1,6 @@
-[^1]: References: I forgot which GitHub Repo I got this from :(.
+[^1]: References: https://github.com/shashihacks/OSCP/tree/master/Linux%2064-Bit%20Shellcoding
 ```
-This Shellcode instruction was taken from another GitHub repository. This is not mine nor claim this is mine.
+This Shellcode instruction was taken from another GitHub repository. This is not mine nor claim this is mine. Thank you shashihacks!
 ```
 
 ### Reducing Instruction Size and Removing Nulls
