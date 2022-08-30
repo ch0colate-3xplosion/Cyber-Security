@@ -1,6 +1,6 @@
 # Cyber Security Notes, Resources, and Scripts
 
-A repository for my Cyber Security Notes, Resources, Links, my Scripts, other peoples Scripts, mines and other tools.
+A repository for my Cyber Security Notes, Resources, Links, my Scripts, other peoples Scripts, mines and other peoples tools. I have segregated the resources, links, and scripts, tools based of cyber security certifications, and red team penetration notes.
 
 ## OSINT Online Websites
 1. https://www.shodan.io
