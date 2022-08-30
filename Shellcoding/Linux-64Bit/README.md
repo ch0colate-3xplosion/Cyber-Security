@@ -3,20 +3,20 @@
 This Shellcode instruction was taken from another GitHub repository. This is not mine nor claim this is mine.
 ```
 
-###Reducing Instruction Size and Removing Nulls
+### Reducing Instruction Size and Removing Nulls
 
 1. In Shellcoding
     - Reduce the instruction size
     - Remove nulls (Null signifies end of string)
 
-###Data Types
+### Data Types
 - Byte - 8 bits
 - Word - 16 bits
 - Double word - 32 bits
 - Quad word - 64 bits
 - Double Quad Word - 128 bits
 
-###Nasm..
+### Nasm..
 - Case sensitive syntax
 - Accessing memory refernce with []
     - `message db 0xAA, 0xBB, 0xCC ... `(defines series of bytes with label ,`message`)
@@ -349,6 +349,3 @@ int main()
 ```
 <br></br><br></br><br></br><br></br><br></br><br></br>
 <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-
-
-
