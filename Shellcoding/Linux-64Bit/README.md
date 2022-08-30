@@ -208,8 +208,6 @@ section .bss ; reserving uninitiliazed datra
   - `PUSH` - insert data into the stack
   - `POP` - Remove data from the stack
 
-![Stack as Lifo](https://raw.githubusercontent.com/shashihacks/oscp-new/master/Linux%2064-Bit%20Shellcoding/assets/stack.jpeg?token=AD4TE56ZE7QA36EE6PQI57TAOFLFM)
-
 Sample `Stack.nasm` program
 
 
@@ -246,7 +244,7 @@ sample : db 0xaa, 0xbb, 0xcc, 0xdd, 0xee, 0xff, 0x11, 0x22
 **Compile:** `nasm Stack.nasm -o Stack.o`
 **Link:**    `ld Stack.o -o Stack`
 **Opening in tui mode:** `gdb -q ./Stack -tui`
-<br></br><br></br><br></br><br></br><br></br><br></br>
+<br></br>
 
 
 ## Shellcoding
