@@ -1,4 +1,4 @@
-[^1] References: I forgot which GitHub Repo I got this from :(
+[^1]: References: I forgot which GitHub Repo I got this from :(.
 ```
 This Shellcode instruction was taken from another GitHub repository. This is not mine nor claim this is mine.
 ```
