@@ -1,8 +1,10 @@
 #!/bin/bash
 #Script isn't finished!
 
-BASE_DIR="/mnt/pve/chocolatestream_storage/vulnhub_downloads"
+BASE_DIR="your directory for Proxmox"
 dir_index=401
+
+echo "You will need to install p7zip into Proxmox"
 
 while IFS= read -r LINK; do
     EXTENSION="${LINK##*.}"
