@@ -19,6 +19,7 @@
 8. Check to ensure p7zip is installed and/or other software for extraction and conversion
 9. On https://download.vulnhub.com/ ignore .torrent files.
 10. Read .txt files and create VM based on .txt files if Windows, Linux versions are mentioned.
+11. Will probably convert this the bashscript to Python3 script for webscraping.
 
 ### Future Task
 
