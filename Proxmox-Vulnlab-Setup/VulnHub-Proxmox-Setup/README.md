@@ -2,8 +2,8 @@
 
 ### Tasks Completed by this Script
 
-[x] Will download all the following Vulnhub file extensions, 7z, zip, tar, ,bz2, gz, rar, tgz, ova.
-[x] Download files on premade directory on Proxmox Server
+[X] Will download all the following Vulnhub file extensions, 7z, zip, tar, ,bz2, gz, rar, tgz, ova.
+[X] Download files on premade directory on Proxmox Server
 
 
 ### Tasks Working On
