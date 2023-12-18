@@ -16,6 +16,7 @@
    - VM ID, VM Name, CPU Cores, CPU Sockets, RAM, will be user selection
 6. Move and rename converted qcow2/raw file to VM storage/images
 7. Modify VM configuration to include the storage
+8. Check to ensure p7zip is installed and/or other software for extraction and conversion
 
 ### Future Task
 
