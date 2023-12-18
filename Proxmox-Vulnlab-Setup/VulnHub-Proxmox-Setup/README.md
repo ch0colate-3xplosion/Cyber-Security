@@ -13,7 +13,7 @@
 3. Convert files whether it be vdi, vmdk, ova, or iso to qcow2
 4. Grab necessary information from the VulnHub site to determine the machine OS type, Linux or Windows
 5. Create VM based OS Type
-  - VM ID, VM Name, CPU Cores, CPU Sockets, RAM, will be user selection
+        - VM ID, VM Name, CPU Cores, CPU Sockets, RAM, will be user selection
 6. Move and rename converted qcow2/raw file to VM storage/images
 7. Modify VM configuration to include the storage
 
